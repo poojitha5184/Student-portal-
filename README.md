@@ -1,2 +1,2 @@
-# Student-portal-
+# Student-portal.demo
 Experiment 3
